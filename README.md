@@ -21,8 +21,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=samra-feroz&theme=dark&border_radius=2.5&card_width=480&card_height=217)](https://git.io/streak-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samra-feroz&show_icons=true&locale=en" alt="samra-feroz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samra-feroz&" alt="samra-feroz" /></p>
-
 
 
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662864935959/QSn1SEfOl.gif"/>
