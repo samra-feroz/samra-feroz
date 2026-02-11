@@ -1,3 +1,4 @@
+<center>
 <h1 align="center">Hi 👋, I'm Samra-Feroz</h1>
 <h3 align="center">A passionate frontend developer from pakistan 🇵🇰</h3>
 
@@ -20,7 +21,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=samra-feroz&theme=dark&border_radius=2.5&card_width=480&card_height=217)](https://git.io/streak-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samra-feroz&show_icons=true&locale=en" alt="samra-feroz" /></p>
-
+</center>
 
 
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662864935959/QSn1SEfOl.gif"/>
