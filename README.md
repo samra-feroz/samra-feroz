@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Samra Feroz</h1>
 <h3 align="center">I'm a Passionate Developer from Karachi PK</h3>
 
-<img align="right" width="400px" src="https://media1.tenor.com/m/IF2JdxzmyN4AAAAC/coding-girl.gif">
+<img align="right" width="400px" src="<img width="297" height="170" alt="image" src="https://github.com/user-attachments/assets/0d17056a-1604-4d27-8d28-efdb18607b6c" />
+">
 <img align="right" width="400px" src="https://img.freepik.com/premium-photo/programmer-woman-coding-computer-coder-girl_1168123-42920.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafsa-nadim&label=Profile%20views&color=0e75b6&style=flat" alt="hafsa-nadim" /> </p>
 
