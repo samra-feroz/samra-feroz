@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Samra Feroz</h1>
 <h3 align="center">I'm a Passionate Developer from Karachi PK</h3>
 
-<img width="297" height="170" alt="image" src="https://github.com/user-attachments/assets/0d17056a-1604-4d27-8d28-efdb18607b6c"/>
+<img  align="right" width="400px" alt="image" src="https://github.com/user-attachments/assets/0d17056a-1604-4d27-8d28-efdb18607b6c"/>
 
 - 🌱 I’m currently learning Web and App Development at Saylani Mass IT Training (SMIT)
 
@@ -16,7 +16,7 @@
 - 💬 Ask me about Html,Css,Java Script many more..
 
 <h3 align="left">Connect with me:</h3>
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/samra-feroz-5391a4388/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/> </a>
  
 </div>
