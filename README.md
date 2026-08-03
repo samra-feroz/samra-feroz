@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Samra Feroz</h1>
 <h3 align="center">I'm a Passionate Developer from Karachi PK</h3>
 
-<img  align="right" width="400px" alt="image" src="file:///C:/Users/pc/OneDrive/Pictures/Saved%20Pictures/sam10.jfif"/>
+<img  align="right" width="400px" alt="image" src="file:///C:/Users/pc/OneDrive/Pictures/Saved%20Pictures/sam11.jpg"/>
 
 - 🌱 I’m currently learning Web and App Development at Saylani Mass IT Training (SMIT)
 
