@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Samra Feroz</h1>
 <h3 align="center">I'm a Passionate Developer from Karachi PK</h3>
 
-<img  align="right" width="400px" alt="image" src="file:///C:/Users/pc/OneDrive/Pictures/Saved%20Pictures/pic.jpg"/>
+<img  align="right" width="400px" alt="image" src="https://plus.unsplash.com/premium_photo-1664301969414-d8435c2b91bb?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8d29tYW4lMjBjb2Rpbmd8ZW58MHx8MHx8fDA%3D"/>
 
 - 🌱 I’m currently learning Web and App Development at Saylani Mass IT Training (SMIT)
 
