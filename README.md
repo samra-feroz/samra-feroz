@@ -1,9 +1,9 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samra-feroz&label=Profile%20views&color=0e75b6&style=flat" alt="hafsa-nadim" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samra-feroz&label=Profile%20views&color=0e75b6&style=flat" alt="samra-feroz" /> </p>
 <h1 align="center">Hi 👋, I'm Samra Feroz</h1>
 <h3 align="center">I'm a Passionate Developer from Karachi PK</h3>
 
-<img  align="right" width="400px" alt="image" src="https://github.com/user-attachments/assets/0d17056a-1604-4d27-8d28-efdb18607b6c"/>
+<img  align="right" width="400px" alt="image" src="file:///C:/Users/pc/OneDrive/Pictures/Saved%20Pictures/sam10.jfif"/>
 
 - 🌱 I’m currently learning Web and App Development at Saylani Mass IT Training (SMIT)
 
